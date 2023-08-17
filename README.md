@@ -2,11 +2,11 @@
 
 My name is **Kevin M Suma**.
 
-I am **Informatics Engineering Student** at **Catholic De La Salle University**.
+I am a **Informatics Engineering Student** at **Catholic De La Salle University**.
 
-Currently being part of **Bangkit Academy 2023 batch 2, Cloud Computing Cohort**.
+Currently, i am part of **Bangkit Academy 2023 batch 2, Cloud Computing Cohort**.
 
-Contact Me :\
+You can reach me through :\
 [Linkedin](https://www.linkedin.com/in/kevin-suma/)\
 [Instagram](https://www.instagram.com/kvsums/)
 
