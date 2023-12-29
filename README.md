@@ -10,7 +10,7 @@ You can reach me through :\
 [Linkedin](https://www.linkedin.com/in/kevin-suma/)\
 [Instagram](https://www.instagram.com/kvsums/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?kvmatthews=your-github-kvmatthews&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-kvmatthews&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
