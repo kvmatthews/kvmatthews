@@ -7,5 +7,5 @@
   ## Traktir Kopi
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinSuma) 
 
-
+![Kv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvmatthews&show_icons=true&theme=radical)
 
