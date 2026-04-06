@@ -7,5 +7,10 @@
   ## Traktir Kopi
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/KevinSuma) 
 
-![Kv's GitHub stats](https://github-readme-stats.vercel.app/api?username=kvmatthews&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/srmpandejlaki">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kvmatthews&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=kvmatthews&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
 
